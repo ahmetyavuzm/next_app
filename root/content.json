@@ -1,0 +1,262 @@
+{
+    "info":{
+        "name": "Ahmet Yavuz Mutlu",
+        "email":"ahmetyavuzm@gmail.com"
+    },
+
+    "content": {
+        "tr": {
+            "title": "Porfoylo Websitem",
+            "description": "Next.js, React ve Tailwind CSS kullanarak oluşturduğum porfoylo websitem.",
+            "navbar": {
+                "navLinks": [
+                    {
+                        "id": "about",
+                        "title": "Hakkımda"
+                    },
+                    {
+                        "id": "projects",
+                        "title": "Projelerim"
+                    },
+                    {
+                        "id": "contact",
+                        "title": "İletişim"
+                    }
+                ]
+            },
+            "hero-section": {
+                "title": "Merhaba, ben",
+                "typing-strings": [
+                    "Yavuz",
+                    "Yazılım Geliştiriciyim",
+                    "Web Geliştiriciyim",
+                    "Otomasyon Uzmanıyım"
+                ],
+                "description": "Bir yazılım geliştiricisiyim. Web ve mobil uygulamalar geliştiriyorum.",
+                "hire-button": "İşe Al",
+                "download-button": "CV İndir"
+            },
+            "about-section": {
+                "title": "Hakkımda",
+                "description": "Merhaba, ben Yavuz. 2018 yılında Bilgisayar Programcılığı bölümünden mezun oldum. 2019 yılından beri yazılım geliştiricisi olarak çalışıyorum. Şu anda bir yazılım şirketinde çalışıyorum. Aynı zamanda freelance olarak da çalışıyorum. Web ve mobil uygulamalar geliştiriyorum. Ayrıca otomasyon konusunda da uzmanım. Otomasyon konusunda da çalışmalar yapıyorum.",
+                "tabs": [
+
+                    {
+                        "id": "skills",
+                        "title": "Yetenekler",
+                        "content": [
+                            "HTML",
+                            "CSS",
+                            "JavaScript",
+                            "React",
+                            "Next.js",
+                            "Tailwind CSS",
+                            "Node.js",
+                            "Görüntü İşleme",
+                            "Otomasyon",
+                            "Web Geliştirme"
+                        ]
+                    },
+                    {
+                        "id": "education",
+                        "title": "Eğitim",
+                        "content": [
+                            "Hacettepe Üniversitesi - Bilgisayar Mühendisliği (2.Sınıf)"
+                        ]
+                    }
+                ]
+            },
+            "projects-section": {
+                "title": "Projelerim",
+                "project-tags":[
+                    {
+                        "id": "all",
+                        "title": "Tümü"
+                    },
+                    {
+                        "id": "web",
+                        "title": "Web"
+                    },
+                    {
+                        "id": "mobile",
+                        "title": "Mobil"
+                    },
+                    {
+                        "id": "game",
+                        "title": "Oyun"
+                    },
+                    {
+                        "id": "consoleApp",
+                        "title": "Konsol Uygulaması"
+                    },
+                    {
+                        "id": "ai",
+                        "title": "Yapay Zeka"
+                    }
+                ] ,
+                "not-found":"Proje Bulunamadı :(",
+                "loading": "Yükleniyor..."
+            },
+            "contact-section": {
+                "title": "Hadi Tanışalım!",
+                "description": "Şu anda kendimi geliştirmek için yeni fırsatlar arıyorum, mail kutum her zaman açık. Bir sorunuz varsa ya da sadece merhaba demek istiyorsanız, size en iyi şekilde geri dönmeye çalışacağım!",
+                "form": {
+                    "email": {
+                        "title": "E-posta Adresiniz",
+                        "placeholder": "mehmet@example.com"
+                    },
+                    "subject": {
+                        "title": "Konu",
+                        "placeholder": "Sadece Merhaba"
+                    },
+                    "message": {
+                        "title": "Mesajınız",
+                        "placeholder": "Hadi şunun hakkında konuşalım..."
+                    },
+                    "submit": {
+                        "title": "Gönder"
+                    }
+                }
+            },
+            "footer": {
+                "copy-right": "© 2024 Benim Portföy Websitem. Tüm hakları saklıdır. | Ahmet Yavuz Mutlu Tarafından Tasarlandı",
+                "describe": {
+                    "name": "Ahmet Yavuz Mutlu",
+                    "description": "Kodlama aracılığıyla olumlu bir etki yaratma misyonunda olan Teknoloji Meraklısı ve Sorun Çözücü."
+                },
+                "contact": {
+                    "title": "İletişim",
+                    "email": "ahmetyavuzm@gmail.com"
+                }
+            }
+        },
+        "en": {
+            "title": "My Portfolio Website",
+            "description": "My portfolio website that I created using Next.js, React and Tailwind CSS.",
+            "navbar": {
+                "navLinks": [
+                    {
+                        "id": "about",
+                        "title": "About"
+                    },
+                    {
+                        "id": "projects",
+                        "title": "Projects"
+                    },
+                    {
+                        "id": "contact",
+                        "title": "Contact"
+                    }
+                ]
+            },
+            "hero-section": {
+                "title": "Hello, I'm",
+                "typing-strings": [
+                    "Yavuz",
+                    "Software Developer",
+                    "Web Developer",
+                    "Automation Expert"
+                ],
+                "description": "I'm a software developer. I develop web and mobile applications.",
+                "hire-button": "Hire Me",
+                "download-button": "Download CV"
+            
+            },
+            "about-section": {
+                "title": "About Me",
+                "description": "Hello, I'm Yavuz. I graduated from Computer Programming department in 2018. I have been working as a software developer since 2019. I'm currently working at a software company. I also work as a freelancer. I develop web and mobile applications. I'm also an expert in automation. I'm also working on automation.",
+                "tabs": [
+
+                    {
+                        "id": "skills",
+                        "title": "Skills",
+                        "content": [
+                            "HTML",
+                            "CSS",
+                            "JavaScript",
+                            "React",
+                            "Next.js",
+                            "Tailwind CSS",
+                            "Node.js",
+                            "Image Processing",
+                            "Automation",
+                            "Web Development"
+                        ]
+                    },
+                    {
+                        "id": "education",
+                        "title": "Education",
+                        "content": [
+                            "Hacettepe University - Computer Engineering (2nd Grade)"
+                        ]
+                    }
+                ]
+            
+            },
+            "projects-section": {
+                "title": "My Projects",
+                "project-tags":[
+                    {
+                        "id": "all",
+                        "title": "All"
+                    },
+                    {
+                        "id": "web",
+                        "title": "Web"
+                    },
+                    {
+                        "id": "mobile",
+                        "title": "Mobile"
+                    },
+                    {
+                        "id": "game",
+                        "title": "Game"
+                    },
+                    {
+                        "id": "consoleApp",
+                        "title": "Console App"
+                    },
+                    {
+                        "id": "ai",
+                        "title": "Artificial Intelligence"
+                    }
+                ],
+                "not-found":"No Projects Found :(",
+                "loading": "Loading..."
+            
+            },
+            "contact-section": {
+                "title": "Let's Talk!",
+                "description": "I'm currently looking for new opportunities to improve myself, my inbox is always open. If you have a question or just want to say hello, I'll try my best to get back to you!",
+                "form": {
+                    "email": {
+                        "title": "Your Email Address",
+                        "placeholder": "jacobs@example.com"
+                    },
+                    "subject": {
+                        "title": "Subject",
+                        "placeholder": "Just Say Hello"
+                    },
+                    "message": {
+                        "title": "Message",
+                        "placeholder": "Let's talk about ..."
+                    },
+                    "submit": {
+                        "title": "Send Message"
+                    }
+                }
+            },
+            "footer": {
+                "copy-right": "© 2024 My Portfolio Website. All rights reserved. | Designed by Ahmet Yavuz Mutlu",
+                "describe": {
+                    "name": "Ahmet Yavuz Mutlu",
+                    "description": "Technology Enthusiast and Problem Solver on a mission to make a positive impact through coding."
+                },
+                "contact": {
+                    "title": "Contact",
+                    "email": "ahmetyavuzm@gmail.com"  
+                }
+            }
+        }
+    }
+}
